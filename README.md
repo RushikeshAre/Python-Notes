@@ -1,4 +1,4 @@
-# Python-Notes
+Python-Notes
 
 # 1st step calling module
 import abc
